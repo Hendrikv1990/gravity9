@@ -1,0 +1,94 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "team",
+    "items": [
+      {
+        "title": "integrate web-enabled action-items",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Ad ea sit do id ipsum irure ex. Qui tempor ex cupidatat id do officia consequat dolor exercitation anim eiusmod ullamco sit cillum. Consectetur velit anim aliquip consectetur excepteur Lorem aliqua non consectetur aliqua tempor ad ut in ex.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": "reintermediate plug-and-play paradigms",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Ea tempor tempor amet est.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": "deploy world-class e-markets",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "In dolor officia sunt exercitation anim amet incididunt.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": "monetize 24/7 e-commerce",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Veniam ullamco ex id do eiusmod eiusmod ipsum culpa voluptate commodo ullamco magna ut quis est. Mollit nulla enim non minim excepteur esse dolore magna sunt labore fugiat esse mollit.",
+            "spans": []
+          }
+        ],
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a?w=900&h=500&fit=crop"
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Architect killer schemas",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
